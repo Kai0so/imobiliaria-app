@@ -34,8 +34,8 @@ Para executar este projeto no seu próprio ambiente, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/Kai0so/imobiliaria-app](https://github.com/Kai0so/imobiliaria-app)
-    cd SEU_REPO
+    git clone https://github.com/Kai0so/imobiliaria-app
+    cd imobiliaria-app
     ```
 
 2.  **Instale as dependências:**
